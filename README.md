@@ -5,8 +5,11 @@ It is built on top of [HPT](https://github.com/ThomasWangY/2024-AAAI-HPT).
 ## Requirements 
 For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](https://github.com/ThomasWangY/2024-AAAI-HPT/blob/main/docs/INSTALL.md).
 
-## Download data
+## Download image data
 The raw images can be downloaded from their original sources [here](https://cocodataset.org/#download), and [here](https://www.kaggle.com/hsankesara/flickr-image-dataset).
+
+## Download knowledge data
+The action knowledge can be downloaded from https://pan.baidu.com/s/14NGtgq-zwvPN86K5EMH3RQ. 提取码: snt6
 
 ## Training and Evaluation
 For MSCOCO and Flickr30K:
