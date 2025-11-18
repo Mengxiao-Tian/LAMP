@@ -14,20 +14,11 @@ bash ./scripts/hpt/xd_train.sh
 
 
 ## Reference
-
 ```
-@article{tian2025llm,
-          title={LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching},
-          author={Tian, Mengxiao and Wu, Xinxiao and Yang, Shuo},
-          journal={IEEE Transactions on Image Processing},
-          year={2025},
-          publisher={IEEE}
-        }
-```
-
 @inproceedings{tian2025llm,
   title={LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching},
   author={Tian, Mengxiao and Wu, Xinxiao and Yang, Shuo},
   booktitle={Proceedings of the International Conference on Computer Vision (ICCV)},
   year={2025}
 }
+```
