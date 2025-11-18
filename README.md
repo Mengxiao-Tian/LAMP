@@ -1,5 +1,5 @@
 This is implementation for the paper "LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching" (LAMP, ICCV 2025)
-It is built on top of [HPT]([https://github.com/LgQu/CAMERA](https://github.com/ThomasWangY/2024-AAAI-HPT).
+It is built on top of [HPT](https://github.com/ThomasWangY/2024-AAAI-HPT).
 
 
 ## Requirements 
