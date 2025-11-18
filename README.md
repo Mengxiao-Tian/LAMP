@@ -3,7 +3,7 @@ It is built on top of [HPT](https://github.com/ThomasWangY/2024-AAAI-HPT).
 
 
 ## Requirements 
-For installation and other package requirements, please follow the instructions detailed in [INSTALL.md]（https://github.com/ThomasWangY/2024-AAAI-HPT/blob/main/docs/INSTALL.md）.
+For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](https://github.com/ThomasWangY/2024-AAAI-HPT/blob/main/docs/INSTALL.md).
 
 ## Download data
 The raw images can be downloaded from their original sources [here](https://cocodataset.org/#download), and [here](https://www.kaggle.com/hsankesara/flickr-image-dataset).
