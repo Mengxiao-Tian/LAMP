@@ -9,7 +9,7 @@ Follow the installation and dependency instructions in [INSTALL.md](https://gith
 Download the raw image datasets from the official sources: [MSCOCO](https://cocodataset.org/#download) and [Flickr30K](https://www.kaggle.com/hsankesara/flickr-image-dataset).
 
 ## Download Knowledge Data
-Action knowledge can be obtained from [Baidu Netdisk](https://pan.baidu.com/s/1_KaF7PcrcQxOPEY7WdazOg?pwd=469y) with extraction code **469y**.
+Action knowledge can be obtained from [Baidu Netdisk](https://pan.baidu.com/s/1okmIwF2dNSnjEihUq-c6wA?pwd=4yc5) with extraction code **4yc5**.
 
 ## Training and Evaluation
 Run the script below to train and evaluate on both MSCOCO and Flickr30K:
